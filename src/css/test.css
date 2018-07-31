@@ -1,0 +1,8 @@
+body{
+  background-image: url(../images/bg.jpg);
+}
+
+h1,p{
+  color:lightpink;
+  text-align: center;
+}
